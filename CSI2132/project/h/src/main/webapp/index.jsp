@@ -9,7 +9,7 @@
 <h2>Search for your Hotel</h2>
   <form action="hotelSearch.jsp" method="post">
 
-  <h1>test</h1>
+  <h1>test</h1
 
     Hotel Chain: <select name="chain" id="chain" class="form-select">
       <option value="" selected disabled>Choose a hotel chain</option>
